@@ -9,6 +9,8 @@ class testes:
     def meunome(self):
         return print(self.nome)
 
+    def idade(self):
+        return print(self.idade)
 
 kelvin = testes('kelvin', 30, 173) 
 
