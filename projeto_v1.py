@@ -1,4 +1,7 @@
-import pandas as pd
-import numpy as np
-import requests as r
-import seaborn as sns
+import utils
+
+
+kelvin = utils.testes('kelvin', 30, 175)
+
+kelvin.meunome()
+

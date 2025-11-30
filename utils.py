@@ -12,6 +12,8 @@ class testes:
     def idade(self):
         return print(self.idade)
 
-kelvin = testes('kelvin', 30, 173) 
+def main():
+    return print('executando')
 
-kelvin.meunome()
+if __name__ == "__main__":
+    main()
